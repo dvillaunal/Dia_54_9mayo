@@ -123,7 +123,7 @@ write.csv(mas60, file = "Terccera_Edad.csv", row.names = F)
 #Generemos un conteo con la función table():
 
 likeCol <- data.frame(table(base$favorite.color))
-
+print(likeCol)
 print("Observamos que el color ganador es el verde con una diferencia de 1 contra el amarillo")
 
 # Exportemos el resultado:
