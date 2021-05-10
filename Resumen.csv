@@ -1,0 +1,8 @@
+"","                              Region","          Item.Type","Sales.Channel","Order.Priority","  Unit.Price","  Unit.Cost","Total.Revenue","  Total.Cost"," Total.Profit"
+"","Asia                             :11  ","Clothes        :13  ","Offline:50  ","C:22  ","Min.   :  9.33  ","Min.   :  6.92  ","Min.   :   4870  ","Min.   :   3612  ","Min.   :   1258  "
+"","Australia and Oceania            :11  ","Cosmetics      :13  ","Online :50  ","H:30  ","1st Qu.: 81.73  ","1st Qu.: 35.84  ","1st Qu.: 268721  ","1st Qu.: 168868  ","1st Qu.: 121444  "
+"","Central America and the Caribbean: 7  ","Office Supplies:12  ",NA,"L:27  ","Median :179.88  ","Median :107.28  ","Median : 752314  ","Median : 363566  ","Median : 290768  "
+"","Europe                           :22  ","Fruits         :10  ",NA,"M:21  ","Mean   :276.76  ","Mean   :191.05  ","Mean   :1373488  ","Mean   : 931806  ","Mean   : 441682  "
+"","Middle East and North Africa     :10  ","Personal Care  :10  ",NA,NA,"3rd Qu.:437.20  ","3rd Qu.:263.33  ","3rd Qu.:2212045  ","3rd Qu.:1613870  ","3rd Qu.: 635829  "
+"","North America                    : 3  ","Household      : 9  ",NA,NA,"Max.   :668.27  ","Max.   :524.96  ","Max.   :5997055  ","Max.   :4509794  ","Max.   :1719922  "
+"","Sub-Saharan Africa               :36  ","(Other)        :33  ",NA,NA,NA,NA,NA,NA,NA
